@@ -27,6 +27,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
 #This method takes in two arguments, an array and the index number whose element
 #we want to retrieve. Use the [], bracket method, to return the element stored at that index number of the given array.
 end
